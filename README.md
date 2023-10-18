@@ -1,2 +1,2 @@
-# laibrary-management-system
-Laibrary Management System Using Python TKinter. 
+# library-management-system
+Library Management System Using Python TKinter. 
